@@ -1,1 +1,1 @@
-worker: python ./config.py
+worker: python bot/main.py
